@@ -1,0 +1,1 @@
+ccminer -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 -u nds@live.ru -p x
